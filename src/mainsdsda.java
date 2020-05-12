@@ -4,6 +4,6 @@ public class mainsdsda {
     }
 
    public void load1(){
-     system.out.println(33333);
+     system.out.println(33333 );
 }
 }
