@@ -8,10 +8,5 @@ public class Main {
 //        System.out.println("大白兔 ");
     }
 
-    public void dabaitu1(){
-        System.out.println("大白兔 ");
-        System.out.println("大白兔 ");
-//        System.out.println("大白兔 ");
-    }
 
 }
